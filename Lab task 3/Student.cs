@@ -9,8 +9,8 @@ namespace Lab_task_3
         static void Main(string[] args)
         {
             Student obj = new Student();
-            obj.Name = "Fazla imam Dip";
-            obj.Id = "19-40354-1";
+            obj.Name = "Adittya Chakraborty";
+            obj.Id = "18-38693-3";
             obj.Dept = "CSE";
             obj.Cgpa = "3.86";
             Console.WriteLine("My name is : " + obj.Name);
