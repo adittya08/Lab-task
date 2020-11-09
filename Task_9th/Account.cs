@@ -6,8 +6,6 @@ namespace Task_9th
 {
     class Account
     {
-       
-
             private string accName;
             private string acid;
             private int balance;

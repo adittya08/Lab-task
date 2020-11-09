@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Task_9th
 {
-    class Class1
+    class Library
     {
+
     }
 }
