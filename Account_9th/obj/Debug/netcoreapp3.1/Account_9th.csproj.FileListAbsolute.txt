@@ -1,0 +1,12 @@
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\bin\Debug\netcoreapp3.1\Account_9th.exe
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\bin\Debug\netcoreapp3.1\Account_9th.deps.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\bin\Debug\netcoreapp3.1\Account_9th.runtimeconfig.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\bin\Debug\netcoreapp3.1\Account_9th.runtimeconfig.dev.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\bin\Debug\netcoreapp3.1\Account_9th.dll
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\bin\Debug\netcoreapp3.1\Account_9th.pdb
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\obj\Debug\netcoreapp3.1\Account_9th.AssemblyInfoInputs.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\obj\Debug\netcoreapp3.1\Account_9th.AssemblyInfo.cs
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\obj\Debug\netcoreapp3.1\Account_9th.csproj.CoreCompileInputs.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\obj\Debug\netcoreapp3.1\Account_9th.dll
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\obj\Debug\netcoreapp3.1\Account_9th.pdb
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Account_9th\obj\Debug\netcoreapp3.1\Account_9th.genruntimeconfig.cache
