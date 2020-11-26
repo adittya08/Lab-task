@@ -1,0 +1,4 @@
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.csprojAssemblyReference.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.AssemblyInfoInputs.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.AssemblyInfo.cs
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\Lab 7\obj\Debug\netcoreapp3.1\Lab 7.csproj.CoreCompileInputs.cache

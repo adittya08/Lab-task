@@ -4,27 +4,17 @@ namespace Lab_7
 {
     class Program
     {
+
+
         static void Main(string[] args)
         {
-            ICalculator mycalc;
-            mycalc = new MyCalc();
-            mycalc.Sum(5, 5);
-
-            MyCalc mc = new MyCalc();
-            mc.Sum(5, 5);
-        }
-    }
-
-    public interface ICalculator
-    {
-        void Sum(int a, int b);
-    }
-
-    public class MyCalc : ICalculator
-    {
-        public void Sum(int a, int b)
-        {
-            Console.WriteLine(a + b);
+            ICalculator c = new ICalculator();
+            Console.WriteLine(" Sum = " + c.sum(10, 5));
+            Console.WriteLine(" Sub = " + c.sub(10, 5));
+            Console.WriteLine(" Multiplication = " + c.multi(10, 5));
+            Console.WriteLine(" Division = " + c.division(10, 5));
+            Console.WriteLine(" Factorial = " + c.factorial(5));
         }
     }
 }
+
