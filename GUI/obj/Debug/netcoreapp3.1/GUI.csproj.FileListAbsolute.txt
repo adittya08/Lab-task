@@ -1,0 +1,17 @@
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.Form1.resources
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.Form2.resources
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.Form3.resources
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+D:\AIUB\Study materials\Fall 20-21\OOP2\Lab tasks\19th october_lab\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
